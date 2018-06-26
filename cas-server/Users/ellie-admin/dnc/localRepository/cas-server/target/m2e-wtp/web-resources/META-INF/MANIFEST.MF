@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: cas-server
+Implementation-Version: 4.0.0
+Built-By: ellie.huang
+Specification-Vendor: Jasig
+Specification-Title: cas-server
+Implementation-Vendor-Id: com.seally
+Build-Jdk: 1.8.0_144
+Specification-Version: 4.0.0
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Jasig
+

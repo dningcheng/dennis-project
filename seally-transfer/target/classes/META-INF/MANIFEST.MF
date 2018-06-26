@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: seally-transfer
+Implementation-Version: 0.0.3-SNAPSHOT
+Built-By: ellie.huang
+Implementation-Vendor-Id: com.data.trans
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/seally-trans
+ fer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
